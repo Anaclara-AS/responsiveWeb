@@ -113,7 +113,7 @@ header-main-logo {
 .featured{
   grid-area: featuredMain;
   min-height: 500px;
-  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .8)) border-box, url(images/83292730_1820393164764859_4401580435964952576_n.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .8)) border-box, url(imgsCG/mainImage.jpg) no-repeat center center;
   display: grid;
   align-content: flex-end;
   color: white;
@@ -141,17 +141,17 @@ header-main-logo {
 }
 
 .sub1{
-  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)) border-box, url(images/carnes.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)) border-box, url(imgsCG/carnes.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .sub2{
-  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)) border-box, url(images/bbq2.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)) border-box, url(imgsCG/bbq2.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .sub3{
-  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 0.1)) border-box, url(images/vegetales.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 0.1)) border-box, url(imgsCG/vegetales.jpg) no-repeat center center;
   background-size: cover;
 }
 
