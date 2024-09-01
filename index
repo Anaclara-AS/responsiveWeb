@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CARNES GUSTAVO</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="app.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Prompt" rel="stylesheet">
+</head>
+<body>
+<nav class="nav-wrapper">
+        <div class="header-main-logo">
+            <img src=images/logo:nobackground.svg alt="Logo de Carnes Gustavo formado por un dibujo de animales en color rojo y el nombre">
+        </div>
+  <div class="burger-icon"><i class="fas fa-bars"></i> MENU</div>
+  <ul class="nav-items main-nav mobile-hide">
+    <li class="list-item"><a href="#">HOME</a></li>
+    <li class="list-item"><a href="#">GALERÍA</a></li>
+    <li class="list-item"><a href="#">PRODUCTOS</a></li>
+    <li class="list-item"><a href="#">SERVICIOS</a></li>
+    <li class="list-item"><a href="#">CONTACTO</a></li>
+  </ul>
+</nav>
+<div class="main-wrapper">
+  <div class="wrapper">
+    <div class="featured">
+      <h1>Disfruta de Sabores Únicos</h1> 
+      <h1>Nosotros Nos Encargamos del Resto.</h1>
+    </div>
+    <div class="sub-featured">
+      <div class="sub1">
+        <h3>Carnes de Alta Calidad</h3>
+      </div>
+      <div class="sub2">
+        <h3>Barbacoa Completa Donde Tú Quieras</h3>
+      </div>
+      <div class="sub3">
+        <h3>Disponible Barbacoas Vegetales</h3>
+      </div>
+    </div>
+    <div class="main-content">
+      <h2>Nuestra Historia</h2>
+      <p>La historia de Carnes Gustavo comenzó cuando un uruguayo decidió establecerse en Valverde del Camino. Pronto se integró en la comunidad y, reconociendo su pasión y conocimiento en el arte del asado uruguayo, decidió abrir una carnicería.<br>
+
+      No se conformó con lo tradicional; diseñó un innovador trailer barbacoa para llevar barbacoas a eventos, grupos y familias. Además de su especialidad en carne, también se especializó en barbacoas vegetarianas para adaptarse a todo tipo de comensales. Así nació Carnes Gustavo.<br>
+
+      Desde entonces, hemos servido a más de 3,000 comensales y hemos trabajado con empresas destacadas como el Instituto Español y Cuenca Minera SL. Hoy en día, nuestro equipo continúa ofreciendo una experiencia culinaria excepcional con auténtico asado uruguayo y opciones vegetarianas.<br>
+
+      ¡Reserva tu fecha con Carnes Gustavo y descubre el sabor único de nuestras barbacoas en tu próximo evento!</p>
+    </div>
+    <div class="main-sidebar">
+      <div class="email-digest-subscription">
+        <h2>Contacta con Nosotros</h2>
+        <p> Envíanos la información sobre tus necesidades: número de comensales, fecha y lugar, preferencias alimenticias y cualquier tipo de alergia.</p>
+        <p>Puedes contactarnos llamando o escribiendo un WhatsApp al: <a
+          href="tel:+34665248550">+34 665 248 550</a></p>
+        <p>También puedes enviar un email a: <a href="malito:carnesgustavo@hotmail.com"> carnesgustavo@hotmail.com</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="footer">
+  <div class="foot1">
+    <h3 class="logo">Carnes Gustavo</h3>
+    <br/>
+    <p>Calle del Duque S/N</p>
+    <p>Valverde del Camino, Huelva</p>
+    <br/>
+    <p>+34 665 248 550</p>
+  </div>
+  <div class="foot2">
+    <h4>Awesome Links</h4>
+    <ul class="fa-ul social-footer">
+      <li><span class="fa-li" ><i class="fas fa-check-square"></i></span>List icons can</li>
+      <li><span class="fa-li"><i class="fas fa-check-square"></i></span>be used to</li>
+      <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>replace bullets</li>
+      <li><span class="fa-li"><i class="far fa-square"></i></span>in lists</li>
+    </ul>
+  </div>
+  <div class="foot3">
+    <h4>Blurbs</h4>
+  </div>
+  <div class="foot4">
+    <h4>Social Media</h4>
+  </div>
+  <div class="copyright">Anaclara Alza UX-Designer &copy; 2024</div>
+</footer>
+</body>
+</html>
