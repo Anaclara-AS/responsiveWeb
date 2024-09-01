@@ -184,7 +184,7 @@ header-main-logo {
 
 footer{
   display: grid;
-  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .8)) border-box, url(images/footer5.svg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .8)) border-box, url(imgsCG/footer5.svg) no-repeat center center;
   grid-template-columns: minmax(20px,300px) minmax(20px,300px) minmax(20px,300px) minmax(20px,300px);
   grid-template-rows: 1fr 1fr;
   justify-content: center;
